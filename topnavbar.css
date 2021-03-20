@@ -1,0 +1,38 @@
+.navbar-brand {
+    position: relative;
+    background: url("brandlogo.png") center center;
+    width: 190px;
+    height: 47px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar-expand-lg .nav-link .nav-hover { 
+    color:black;
+    margin-bottom: 0px;
+}   
+div#navbarNav{
+    font-weight:bold;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+div#navbarright{
+    font-weight:bold;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.navbar{
+    background:white;
+    color: blue;
+}
+.navbar-nav{
+    padding-left: 50px;
+    padding-right: 2px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.navbar-brand{
+    padding-left: 2px;
+}

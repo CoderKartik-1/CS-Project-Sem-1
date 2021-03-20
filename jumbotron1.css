@@ -1,0 +1,28 @@
+div#jumbotron1{
+    margin-top: 0px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    font-weight: bold;
+
+}
+
+div#jumbotron1 .lead{
+    font-weight: bolder;
+}
+
+div#jumbotron1 .display-4{
+    font-weight: bolder;
+}
+
+div#jumbotron1 .bg-image{
+    background-image: url("voting\ 4.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+
+    filter: opacity(0.7);
+    -webkit-filter: blur(0.5);
+}
+
+
+
