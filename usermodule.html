@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>UserModule</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="usermodule.css">
+    </head>
+
+    <form class="formbuild" action="index.html" method="post" action="submit">
+        <h1>Vote Selection</h1>
+        <p>Party Name</p>
+        <select name="dropdown" placeholder="enter Name">
+            <option value = "BJP" selected>BJP</option>
+            <option value = "Congress">Congress</option>
+            <option value = "NCP" required>NCP</option>
+            <option value = "AIMIM" disabled>AIMIM</option>
+            <option value = "RJD">RJD</option>
+            <option value = "PDP">PDP</option>
+            <option value = "CPI">CPI</option>
+            </select>
+        <p>Voter-id</p>
+        <input type="text" name="voter-id" placeholder="enter your Voter-id" pattern="[a-z A-Z 0-9]+">
+        <p>Password</p>
+        <input type="text" name="Password" placeholder="enter Password">
+        <input type="submit" name="" value="submit">
