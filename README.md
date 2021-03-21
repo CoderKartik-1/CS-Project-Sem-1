@@ -31,8 +31,4 @@ x. connect.php
 xi. brandlogo.png
 xii. Voting 1.jpg
 xiii. Voting 2.jpg
-• Link to GitHub Repository ( Where all the above mentioned files can be 
-viewed):
- CoderKartik-1/CS-Project-Sem-1 (github.com)
-• Link to view website ( Hosted on GitHub Pages ):
- ONLINE VOTING PORTAL (coderkartik-1.github.io)
+
