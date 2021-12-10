@@ -13,10 +13,7 @@ logging in.
 • On logging in the voter gets a form to vote for their choice of Party and 
 even a N.O.T.A option.
 • The entire interface has been made in a very attractive and user-friendly 
-manner. So that voters can cast their votes easily.
-• The entire portal has been hosted on Github Pages for the examiner to 
-have a look at. (Unfortunately, GitHub Pages does not support backend 
-server tools. So the examiner can view only the backend source code files.) 
+manner. So that voters can cast their votes easily. 
 • The following files are part of the project:
 i. index.html xiv. Voting 3.jfif
 ii. signup.html xv. voting 4.jpg
